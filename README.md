@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mehrshad Khanj
 
-<!--
-**Mehrshanj/Mehrshanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Audio Engineer & Music Producer with 10+ years of professional experience in music production, mixing, mastering, sound design, and audio restoration.
 
-Here are some ideas to get you started:
+I work primarily with Logic Pro and Ableton Live and integrate AI-assisted audio tools into professional production workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise
+- Mixing & Mastering
+- Audio Editing & Restoration
+- Sound Design
+- AI Audio & Voice Workflows
+- Source Separation & Audio Reconstruction
+- Noise & Artifact Reduction
+- AI-Assisted Music Production
+
+## Links
+- Website: https://www.mehrshadkhanj.com
+- LinkedIn: https://www.linkedin.com/in/mehrshad-khanj-27332b259/
